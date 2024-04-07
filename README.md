@@ -1,2 +1,2 @@
-# JS-Tasks
-JavaScript solutions I've provided for various tasks.
+# Java Script Tasks
+Solutions I've provided for various tasks.
