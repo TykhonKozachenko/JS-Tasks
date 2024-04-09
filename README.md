@@ -1,5 +1,5 @@
-# Java Script Tasks
-###### Solutions I've provided for various tasks.
+# JS Solutions
+###### Implementations I've provided for various tasks.
 
 <br>
 
