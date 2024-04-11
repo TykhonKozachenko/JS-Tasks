@@ -3,6 +3,7 @@
 
 | Name | Task  | Solution |
 | :--- | :---: | :---:    |
+| Herbivores and Сarnivores | [readme](https://github.com/TykhonKozachenko/herbivores-and-carnivores/blob/develop/readme.md) | [commit](https://github.com/TykhonKozachenko/herbivores-and-carnivores/commit/36fcd6fb57014592ca8bd0f874c985d7da65ae12) |
 | Infinite Sum Closures | [readme](https://github.com/TykhonKozachenko/infinite-sum-closures/blob/develop/readme.md) | [commit](https://github.com/TykhonKozachenko/infinite-sum-closures/commit/6b88aae59490b23b3135241fb535d48127e0719c) |
 | Convert Style String to Object | [readme](https://github.com/TykhonKozachenko/style-to-object/blob/develop/readme.md) | [commit](https://github.com/TykhonKozachenko/style-to-object/commit/8a77450d75da209f601e983b6d90b205ad20bc23) |
 | Custom Implementation of Array.prototype.sort() | [readme](https://github.com/TykhonKozachenko/array-sort-method/blob/develop/readme.md) | [commit](https://github.com/TykhonKozachenko/array-sort-method/commit/0ad7815fc270ffee40c2b70b9bbd5db82c6ee9aa) |
