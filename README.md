@@ -1,4 +1,4 @@
-# JavaScript Solutions
+# JavaScript Tasks
 ###### Implementations I've provided for various tasks.
 
 | Name | Task  | Solution |
